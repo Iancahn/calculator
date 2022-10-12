@@ -49,7 +49,7 @@ footer {
     justify-content: right;
     padding-right: 20px;
     padding-top: 45px;
-    font-size: 2rem;
+    font-size: 2.5rem;
     color: #0C2735;
     background-color: rgb(255, 255, 255);
 }
@@ -146,4 +146,8 @@ footer {
     grid-column: 4 / 5;
     background-color: #091921;
     border: none;
+}
+
+.grid-item-19:hover {
+    display: none;
 }
